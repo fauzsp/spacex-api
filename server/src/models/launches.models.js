@@ -53,7 +53,9 @@ async function populateLaunches() {
 
 async function loadLaunchesData() {
  const firstLaunch = await findLaunch({
-    flightNUmber: 1, rocket: "Falcon 1", mission: "FalconSat"
+  flightNumber: 1,
+  rocket: 'Falcon 1',
+  mission: 'FalconSat',
   })
   if(firstLaunch) {
     console.log('launch data already exists');

@@ -1,6 +1,4 @@
-NASA Mission Control Project
-
-The completed version of our NASA project from Complete Node.js Developer: Zero to Mastery.
+This is the spacex api project. which is a learning and test project which includes both frontend and backend
 
 Keep in mind that we recommend you code along with us and use this only if you ever get stuck or you don't like to code along.
 Getting Started
